@@ -20,7 +20,7 @@ software publication.
 
 ## How it works
 
-![https://docs.software-metadata.pub/en/latest/_images/workflow-overview.svg](https://docs.software-metadata.pub/en/latest/_images/workflow-overview.svg)
+![https://docs.software-metadata.pub/en/latest/](https://docs.software-metadata.pub/en/latest/_images/workflow-overview.svg)
 
 The workflow is described in detail in the [hermes-hmc/workflow](https://github.com/hermes-hmc/workflow) repository.
 
